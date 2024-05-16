@@ -35,6 +35,7 @@
         <module>codegen-dot</module>
         <module>codegen-gapp</module>
         <module>codegen-gappopencl</module>
+        <module>codegen-gappco</module>
         <module>codegen-compressed</module>
         <module>codegen-verilog</module>
         <module>codegen-latex</module>
